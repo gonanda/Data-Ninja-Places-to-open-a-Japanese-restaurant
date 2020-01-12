@@ -1,0 +1,101 @@
+,id,name,categories,lat,lng,neighborhood,distance [m]
+0,4a1c8506f964a520457b1fe3,Berlin Hauptbahnhof,Light Rail Station,52.525219740053664,13.369368947618717,Europaplatz 1 (Washingtonplatz),4779
+1,4af5f0c7f964a52020ff21e3,Bahnhof Berlin Friedrichstraße,Light Rail Station,52.52028438859317,13.387062800611602,Georgenstr. 14/17,5636
+2,4b05bf38f964a5204ce222e3,Bahnhof Berlin Potsdamer Platz,Light Rail Station,52.509722699579015,13.37659678898891,Potsdamer Platz (Potsdamer Str.),4657
+3,4adcda91f964a520ba4b21e3,Bahnhof Berlin Zoologischer Garten,Light Rail Station,52.50664170175053,13.332512656614364,Hardenbergplatz 13,1657
+4,4b01859ef964a520174322e3,S Savignyplatz,Light Rail Station,52.50509280813989,13.319846821638462,Bleibtreustr. 49,782
+5,4b49c4aff964a520617326e3,S Halensee,Light Rail Station,52.49646643261564,13.290118428858907,Kurfürstendamm 69 (Westfälische Str.),1470
+6,4b0709f1f964a520fbf522e3,S Westkreuz,Light Rail Station,52.500958551986976,13.283716263653647,Halenseestr. 28 (Am Westkreuz),1711
+7,4b532265f964a520de8f27e3,S Hohenzollerndamm,Light Rail Station,52.488568840633555,13.300280570983887,Hohenzollerndamm 48,1738
+8,4b115e73f964a5200a7b23e3,S Messe Nord / ICC,Light Rail Station,52.507354565493635,13.283233524589374,Messedamm (Neue Kantstr.),1780
+9,4b236583f964a520a85524e3,S Tiergarten,Light Rail Station,52.51426410937512,13.33624071943421,Straße des 17. Juni (Bachstr.),2229
+10,4bddd19a0ee3a59337c62eb0,S Westend,Light Rail Station,52.51842443666713,13.284245579503668,Spandauer Damm (Stadtring),2357
+11,4b14d297f964a520cfa623e3,S+U Heidelberger Platz,Light Rail Station,52.47973533822178,13.312253952026367,Mecklenburgische Str. 23 (Aßmannshauser Str.),2637
+12,4fb8f0e2e4b0d0cc8214991b,S Messe Süd (Eichkamp),Light Rail Station,52.49871787792146,13.270266057700047,Messedamm,2652
+13,4af439b1f964a520b5f021e3,S+U Bundesplatz,Light Rail Station,52.477807278577636,13.329024437212707,Bundesallee (Wexstr.),3158
+14,4b2cd4a3f964a520a4c924e3,S Bellevue,Light Rail Station,52.52004051162699,13.34778050309176,Bartningallee 18,3237
+15,4a1cc8d1f964a520617b1fe3,Bahnhof Berlin Alexanderplatz,Light Rail Station,52.5215922447731,13.411380462818329,Dircksenstr. 2,7249
+16,4b608eb5f964a5208bed29e3,S Heerstraße,Light Rail Station,52.50811978594503,13.25922983932812,Heerstr. (Boyenallee),3391
+17,4af9be50f964a520de1322e3,S Grunewald,Light Rail Station,52.48837024210346,13.261803003075908,Am Bahnhof Grunewald (Schmetterlingspl.),3586
+18,4b0fd38df964a5203e6523e3,S+U Innsbrucker Platz,Light Rail Station,52.478007182840436,13.342340803829249,Innsbrucker Platz 67 (Wexstr.),3627
+19,4b2e15e1f964a520badc24e3,S Beusselstraße,Light Rail Station,52.53425765575362,13.328670736478864,Beusselstr.,3699
+20,4b1a81a3f964a52044eb23e3,S Schöneberg,Light Rail Station,52.47938313850869,13.351930596263264,Dominicusstr. 41,3963
+21,4b1bcdc0f964a5208afd23e3,S Julius-Leber-Brücke,Light Rail Station,52.486505036997336,13.361130001821119,Kolonnenstr. (Brunhildstr.),4018
+22,50800e9ce4b0643e8cfde2d1,S Yorckstraße (Großgörschenstraße),Light Rail Station,52.492741227376335,13.368128845817695,Großgörschenstr. 65,4198
+23,4bc97ce10687ef3b370fdacc,S Friedenau,Light Rail Station,52.4703289047123,13.341076552311273,Baumeisterstr.,4280
+24,4b0d6a2ef964a520cc4723e3,S+U Westhafen,Light Rail Station,52.536050461566774,13.343783649654007,An der Putlitzbrücke,4350
+25,4e8c3451b8f7a1fe8dda76d9,S-Bahn Abstellanlage Hundekehle,Light Rail Station,52.48197093773272,13.254073655434832,Kolonie Hundekehle,4398
+26,52a1bf1211d2718ebbad984c,S Yorckstraße,Light Rail Station,52.49196163340339,13.372094622861056,Yorckstr. 56,4481
+27,4be403b121d5a59380641a11,S Olympiastadion,Light Rail Station,52.511424834543156,13.243354816623604,Flatowallee,4515
+28,4b27d9f7f964a520298b24e3,S Feuerbachstraße,Light Rail Station,52.46374419869237,13.332809944589336,Feuerbachstr. 31,4700
+29,575af1a1498e538bc19a4f69,S5,Light Rail Station,52.525152,13.37046,Berlin,4839
+30,4b1a8608f964a5209deb23e3,S Anhalter Bahnhof,Light Rail Station,52.50427862733368,13.382004881481881,Stresemannstr. (Schöneberger Str.),4970
+31,4b0abbecf964a520102723e3,S+U Brandenburger Tor,Light Rail Station,52.516514722235115,13.380191958856596,Unter den Linden (Wilhelmstr.),5063
+32,4b200056f964a520f52b24e3,S+U Rathaus Steglitz,Light Rail Station,52.45688545379072,13.320708274841309,Berlinickestr. 16,5234
+33,5652a907498e1308f989ca49,S7,Light Rail Station,52.521382,13.380878,Berlin,5288
+34,4bb8b7f27421a5932004c240,S Pichelsberg,Light Rail Station,52.51031661559193,13.227699135300064,Tharauer Allee (Schirwindter Alee),5540
+35,57ef94a2cd1039e6f5c4a62e,S5,Light Rail Station,52.520283,13.387318,10117 Berlin,5652
+36,4b1ed1eef964a5200b2024e3,S Priesterweg,Light Rail Station,52.45943423975909,13.356160913466528,Priesterweg (Prellerweg),5852
+37,4af2733bf964a520b9e721e3,S+U Wedding,Light Rail Station,52.542747280111435,13.367037879672386,Müllerstr. (Lynarstr.),5906
+38,4bbb5ee57421a5939ebbc440,S Botanischer Garten,Light Rail Station,52.44800635569196,13.306803703308105,Hortensienstr. 28b,6160
+39,4b0ba215f964a520b63223e3,S Oranienburger Straße,Light Rail Station,52.5253016135832,13.39307427406311,Oranienburger Str. 35,6219
+40,4b03f3cef964a520a65022e3,S Nordbahnhof,Light Rail Station,52.53181879606293,13.388126642445666,Invalidenstr. 131,6247
+41,4b05b648f964a5206ae122e3,S+U Tempelhof,Light Rail Station,52.470651707494795,13.384737968444824,Tempelhofer Damm (Hoeppnerstr.),6310
+42,4b0167f0f964a520614222e3,S Humboldthain,Light Rail Station,52.54466129942383,13.379298448562622,Wiesenstr.2 (Hochstr.),6637
+43,4af5421ef964a520acf821e3,S Hackescher Markt,Light Rail Station,52.52270376285392,13.401862292837192,Am Zwirngraben,6671
+44,4b6ff1ebf964a520ef002de3,S Lichterfelde West,Light Rail Station,52.44344016061144,13.293919358738721,Hans-Sachs-Str. (Knesebeckstr.),6741
+45,4b771646f964a520ff7b2ee3,Bahnhof Berlin-Lichterfelde Ost,Light Rail Station,52.42882380591329,13.328546810186394,Lankwitzer Str. 25,8402
+46,4b1ed094f964a520eb1f24e3,S Südende,Light Rail Station,52.44648994838095,13.359213772888728,Steglitzer Damm (Buhrowstr.),7196
+47,4b1ed1b0f964a520082024e3,S Attilastraße,Light Rail Station,52.44648279479832,13.359231012908445,Attilastr. (Steglitzer Damm),7197
+48,4c42e031af052d7fc3957f79,S Stresow,Light Rail Station,52.532080975959495,13.20903409488843,Stresowstraße (Freiheit),7469
+49,4b293faff964a520aa9b24e3,S Lankwitz,Light Rail Station,52.43890309520828,13.342208862304688,Leonorenstr. 60,7524
+50,4b45c7f2f964a520421026e3,S+U Jannowitzbrücke,Light Rail Station,52.51437034954435,13.419087315688088,Alexanderstr. (Holzmarktstr.),7581
+51,560cbe93498e58ddd0835555,S41 Ringbahn,Light Rail Station,52.54938735519833,13.391858396580574,Berlin,7617
+52,4aec1ce4f964a52053c521e3,Bahnhof Berlin Südkreuz,Light Rail Station,52.47605866675621,13.365101880132242,General-Pape-Str. 1 (Hildegard-Knef-Platz),4883
+53,4b6ed068f964a520bfcb2ce3,S Sundgauer Straße,Light Rail Station,52.436476549528535,13.273673057556152,Sundgauer Str. 107,7811
+54,4adcda91f964a520bc4b21e3,Berlin Ostbahnhof,Light Rail Station,52.51061791411551,13.434903768985732,Koppenstr. 3,8591
+55,4aec2226f964a5205ac521e3,Bahnhof Berlin-Charlottenburg,Light Rail Station,52.504702,13.302984,Stuttgarter Platz 36,414
+56,4cd701d2b2a4370402118844,S Eichborndamm,Light Rail Station,52.577693027319846,13.316588401794434,Eichborndamm,8295
+57,4b5951b1f964a520ef8428e3,S Bornholmer Straße,Light Rail Station,52.55468845906756,13.397808084790565,Bornholmer Str. (Bösebrücke),8314
+58,4e5cb55dd22dcfc934172d9d,S Karl-Bonhoeffer-Nervenklinik,Light Rail Station,52.5779461570014,13.329611094470689,Saalmannstr. (Reinickes Hof),8426
+59,4af52176f964a52068f821e3,Bahnhof Berlin-Wannsee,Light Rail Station,52.42124225304709,13.17971661025149,Kronprinzessinnenweg 250 (Gustav-Hartmann-Platz),12648
+60,4b046650f964a520db5322e3,S Zehlendorf,Light Rail Station,52.43097544848832,13.258824348449707,Teltower Damm (Machnower Str.),8735
+61,4ae9e9cbf964a52092b721e3,S+U Schönhauser Allee,Light Rail Station,52.54940121244394,13.413748741149902,Schönhauser Allee 75 (Dänenstr.),8772
+62,4c6a2ac235d3be9af2512106,S Alt-Reinickendorf,Light Rail Station,52.577816902463866,13.350942134857178,Roedernallee (Flottenstr.),8771
+63,4b502f3df964a520281e27e3,S Wollankstraße,Light Rail Station,52.56538793759223,13.391880057423274,Nordbahnstr. 1-8 (Wollankstr.),8914
+64,4cd255a12b52a09360761e39,S Mexikoplatz,Light Rail Station,52.437040128023284,13.232692509779918,Mexikoplatz,8999
+65,4b72841ef964a520d97c2de3,S Schönholz,Light Rail Station,52.57162743268746,13.380712271319734,Provinzstr. 60,9033
+66,4bf913705ec320a1e7ac89d3,S Prenzlauer Allee,Light Rail Station,52.54468532940881,13.426177295236872,Prenzlauer Allee 180,9194
+67,4af43923f964a520b1f021e3,S+U Hermannstraße,Light Rail Station,52.46752293645975,13.431306313150502,Hermannstr. 160,9219
+68,4b9fba99f964a520243937e3,S Osdorfer Straße,Light Rail Station,52.41916077361036,13.31451571314966,Osdorfer Str. 124,9378
+69,4b6c48c7f964a520be2d2ce3,S Wilhelmsruh,Light Rail Station,52.581240420356146,13.36334133483718,Lengederstr. 47,9429
+70,4cc085aea0c4f04d2b585b31,S Schlachtensee,Light Rail Station,52.439916166114,13.21481636824,Am Schlachtensee,9504
+71,4d8e37a95091a1cd87a08a01,S Tegel,Light Rail Station,52.588222417067875,13.289563650309647,Buddestr. (Grußdorfstr.),9538
+72,4af53e5df964a520a4f821e3,S Warschauer Straße,Light Rail Station,52.50635133609648,13.450371623039246,Warschauer Str. 34,9607
+73,4af21059f964a52097e521e3,S+U Neukölln,Light Rail Station,52.473364694624486,13.4434378289879,Saalestr. 1,9725
+74,4af62a07f964a520d70122e3,S Greifswalder Straße,Light Rail Station,52.5403384961592,13.43877911567688,Greifswalder Str. 80 (Storkower Str.),9728
+75,4b7bebb7f964a520d3732fe3,S Marienfelde,Light Rail Station,52.423870917531744,13.374841910086221,Bahnstr. (Marienfelder Allee),9918
+76,4af74438f964a520c60722e3,S+U Pankow,Light Rail Station,52.56690608001637,13.411683066994984,Florastr. 52,9936
+77,4bb5a1902f70c9b68e6a8430,S Lichterfelde Süd,Light Rail Station,52.41100502049832,13.308608556152079,Fürstenstr.,10277
+78,4bd22d55a8b3a5937958675f,S Landsberger Allee,Light Rail Station,52.529179689362444,13.455241069397305,Landsberger Allee 117,10337
+79,4b24d167f964a520fa6924e3,S Treptower Park,Light Rail Station,52.49359546326444,13.461537912341118,Puschkinallee,10416
+80,4b6cbef1f964a52032512ce3,S+U Wittenau,Light Rail Station,52.59576099876761,13.336062354862595,Wilhelmsruher Damm,10454
+81,4b109408f964a5202f7323e3,S Sonnenallee,Light Rail Station,52.473124275743984,13.455658317278234,Saalestr. 50,10515
+82,4af6316cf964a5201e0222e3,S Storkower Straße,Light Rail Station,52.5238978942807,13.464559871380004,Storkower Str.,10806
+83,4b4b49f1f964a520979626e3,S Nikolassee,Light Rail Station,52.43205126732765,13.193179918119977,Alemannenstr. (Matterhornstr.),11148
+84,4afe1077f964a520a22d22e3,S+U Frankfurter Allee,Light Rail Station,52.51374199776662,13.475020864232688,Frankfurter Allee 111a,11330
+85,4b45c268f964a520ef0f26e3,S Köllnische Heide,Light Rail Station,52.46957557333473,13.467736281037237,Krebsgang (Sonnenallee),11418
+86,4b24d2c0f964a520016a24e3,S Plänterwald,Light Rail Station,52.47865434801003,13.473208940852519,Erich-Lodemann-Str. (Am Plänterwald),11486
+87,4b55c8faf964a520e2ef27e3,S Buckower Chaussee,Light Rail Station,52.410514,13.382756,Buckower Chaussee,11489
+88,55d46439498e8812c3d132d9,S2 nach Bernau,Light Rail Station,52.410439390707594,13.382808384229735,Berlin,11498
+89,4b72dc8ef964a520178c2de3,S Waidmannslust,Light Rail Station,52.606687279740726,13.320851329764386,Waidmannsluster Damm,11534
+90,4c5117390ef3a59386c86b7b,S Pankow-Heinersdorf,Light Rail Station,52.57772370945624,13.428968831495114,Prenzlauer Promenade (Damerowstr.),11615
+91,50805e0ce4b021134533d73e,Bahnhof Berlin Jungfernheide,Light Rail Station,52.53047586316074,13.30012213054797,Max-Dohrn-Str. 5,3076
+92,4b23dae0f964a5204d5b24e3,S Rummelsburg,Light Rail Station,52.49811418680317,13.483391674665043,Nöldnerstr.,11854
+93,4b21e2def964a520334224e3,S Nöldnerplatz,Light Rail Station,52.50343993013426,13.484772174011216,Archibaldweg 22,11933
+94,4bb5a0eaef159c7455f374f7,S Teltow Stadt,Light Rail Station,52.396802229909525,13.276312351226807,Mahlower Str. (Liselotte-Hermann-Str.),12060
+95,4b49ee53f964a520337626e3,S Hermsdorf,Light Rail Station,52.61764229530667,13.307268298822782,Heinsestr. 40,12725
+96,4bb4de172ba29c741c67ef2d,S Schichauweg,Light Rail Station,52.39886593169185,13.38913554438339,Barnetstr. (Miethepfad),12846
+97,4b648b51f964a5205abc2ae3,S Betriebsbahnhof Rummelsburg,Light Rail Station,52.493544042147704,13.498595608561363,Hönower Weg 2,12917
+98,4b20a660f964a5209f3324e3,S Baumschulenweg,Light Rail Station,52.46748401130142,13.490026465375704,Baumschulenstr. 40,12925
+99,4c7cb3f4247cb60c80d95e5e,S Schulzendorf (b Tegel),Light Rail Station,52.61317491341808,13.246005887874208,Ruppiner Chaussee (Schulzendorfer Siedlung),12942
