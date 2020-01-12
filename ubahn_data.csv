@@ -1,0 +1,101 @@
+,id,name,categories,lat,lng,neighborhood,distance [m]
+0,4bfb2cf765fbc9b66f23916c,U Rehberge,Metro Station,52.55557021151001,13.343411678190035,Müllerstr. (Dubliner Str.),6273
+1,4b538a1af964a52043a127e3,U Wilmersdorfer Straße,Metro Station,52.506311744391866,13.306770062876147,Wilmersdorfer Str. (Kantstr.),355
+2,4b5de986f964a520387329e3,U Adenauerplatz,Metro Station,52.499950165542245,13.307203261914552,Adenauerplatz (Kurfürstendamm),389
+3,4b47845cf964a5209e3426e3,U Güntzelstraße,Metro Station,52.49098942323843,13.330867689859518,Bundesallee (Güntzelstr.),2037
+4,4b2a3edbf964a52076a624e3,U Deutsche Oper,Metro Station,52.51119264047287,13.311905480974712,Bismarckstr. (Krumme Str./Weimarer Str.),902
+5,4b44e46df964a5206eff25e3,U Konstanzer Straße,Metro Station,52.494568991477095,13.309008479118347,Brandenburgische Str. (Konstanzer Str.),975
+6,4b0c1f51f964a520513723e3,U Uhlandstraße,Metro Station,52.50266776240635,13.32575601039011,Kurfürstendamm (Uhlandstr.),1160
+7,4b9fee68f964a5206e4b37e3,U Sophie-Charlotte-Platz,Metro Station,52.51089296542278,13.296825885772705,Sophie-Charlotte-Platz (Kaiserdamm),1162
+8,4b25e6eef964a520607724e3,U Ernst-Reuter-Platz,Metro Station,52.511772743949194,13.322071313542239,Ernst-Reuter-Platz,1306
+9,4b0a9199f964a5202a2523e3,U Bismarckstraße,Metro Station,52.515821404848516,13.312384752523899,Bismarckstr. (Wilmersdorfer Str.),1413
+10,4c4327196c1a9521f1ffb96a,U Hansaplatz,Metro Station,52.51789875702558,13.342026472091675,Altonaer Str. (Hansaplatz),2781
+11,4c6bf42469b4ef3bcf7c484e,U Hohenzollernplatz,Metro Station,52.49372759565509,13.32367919264071,Hohenzollernplatz (Hohenzollerndamm),1475
+12,4b3ba2f5f964a5209f7725e3,U Fehrbelliner Platz,Metro Station,52.49040887181032,13.314185848627758,Fehrbelliner Platz (Hohenzollerndamm),1486
+13,4b7422edf964a52073c92de3,U Kurfürstendamm,Metro Station,52.50385334379752,13.331419797939612,Kurfürstendamm (Joachimstaler Str.),1542
+14,4b5ad262f964a52025d628e3,U Richard-Wagner-Platz,Metro Station,52.51727853163459,13.306739330291748,Otto-Suhr-Allee (Richard-Wagner-Str.),1558
+15,55f6b238498e5835899eccab,U Zoologischer Garten,Metro Station,52.506654403370064,13.33275061253372,Hardenbergplatz (Hardenbergstr.),1673
+16,4afbd0e5f964a5201f1f22e3,U Spichernstraße,Metro Station,52.49652856823467,13.331179329124765,Bundesallee (Spichernstr.),1703
+17,4b2798e1f964a520ab8724e3,U Kaiserdamm,Metro Station,52.51006952423789,13.284009459995175,Kaiserdamm (Messedamm),1831
+18,4c40c09c6c1a9521d960b96a,U Augsburger Straße,Metro Station,52.50045199175022,13.336532161044744,Nürnberger Straße (Augsburger Straße),1915
+19,4c35867609a99c7434760c2a,U Blissestraße,Metro Station,52.48640810653883,13.3222268127136,Blissestr. (Berliner Str.),2096
+20,4b0a2a0ef964a520272223e3,U Wittenbergplatz,Metro Station,52.501805911822,13.342965871327548,Wittenbergplatz (Tauentzienstr.),2330
+21,4af7ef7cf964a5208e0a22e3,U Berliner Straße,Metro Station,52.48730297431249,13.331223678274698,Berliner Str. (Bundesallee),2349
+22,4c1e061fb4e62d7fed98dd93,U Viktoria-Luise-Platz,Metro Station,52.49602780458706,13.342699355171186,Viktoria-Luise-Platz (Motzstr.),2445
+23,4b54850ff964a52052be27e3,U Mierendorffplatz,Metro Station,52.52570305559235,13.305473327636719,Mierendorffplatz (Kaiserin-Augusta-Allee),2499
+24,4b61bd2af964a520af1f2ae3,U Theodor-Heuss-Platz,Metro Station,52.50972413658469,13.272696733474731,Theodor-Heuss-Platz (Kaiserdamm),2538
+25,4b538beaf964a52083a127e3,U Bayerischer Platz,Metro Station,52.488516576605434,13.340513706207274,Bayerischer Platz (Grunewaldstr.),2716
+26,4b07093ff964a520ecf522e3,U Jungfernheide,Metro Station,52.530621238293826,13.300752639770508,Max-Dohrn-Str. (Gallesteig),3084
+27,4b3ba590f964a520f27725e3,U Nollendorfplatz,Metro Station,52.49965625718372,13.353818944354552,Nollendorfplatz (Karl-Heinrich-Ulrichs-Str.),3087
+28,4af44fe6f964a5203af121e3,U Walther-Schreiber-Platz,Metro Station,52.46515833153111,13.328401963970897,Walther-Schreiber-Platz (Schloßstr.),4455
+29,59d7bd42b9ac387f396dd6b8,U Bundesplatz,Metro Station,52.47768006710931,13.32901835267964,Berlin,3171
+30,4b5d47d2f964a520995829e3,U Rathaus Schöneberg,Metro Station,52.48321773480732,13.34199715006082,Innsbrucker Str. (Freiherr-vom-Stein-Str.),3180
+31,4bc4205babf49521e6adc493,U Eisenacher Straße,Metro Station,52.48952264823777,13.350212574005125,Grunewaldstr. (Eisenacher Str.),3207
+32,4bb70745ef159c74ddc376f7,U Turmstraße,Metro Station,52.52613060361615,13.341339826583862,Turmstr. (Alt-Moabit),3367
+33,4c4ad32342b4d13ae8c9c77d,U Rüdesheimer Platz,Metro Station,52.472939702275276,13.314413961035346,Rüdesheimer Platz (Rüdesheimer Str.),3405
+34,4b4e1b30f964a52063e126e3,U Neu-Westend,Metro Station,52.51619474835671,13.259725570678711,Olympische Str. (Preußenallee),3611
+35,4b38b901f964a520bd4f25e3,U Kurfürstenstraße,Metro Station,52.49968061034259,13.363212586639358,Kurfürstenstr. (Potsdamer Str.),3718
+36,4b3ba68cf964a520027825e3,U Bülowstraße,Metro Station,52.49763570940962,13.363022804260254,Bülowstr. (Potsdamer Str.),3737
+37,4b274ae2f964a520ae8524e3,U Kleistpark,Metro Station,52.490501225556294,13.360314598307921,Potsdamer Str. (Hauptstr.),3780
+38,4b478578f964a520be3426e3,U Friedrich-Wilhelm-Platz,Metro Station,52.47134458905861,13.329503121911973,Friedrich-Wilhelm-Platz (Wiesbadener Str.),3830
+39,4b586223f964a5204e5528e3,U Jakob-Kaiser-Platz,Metro Station,52.53678989472189,13.294034854285265,Jakob-Kaiser-Platz (Kurt-Schmacher-Damm),3854
+40,4c0a8f7c6071a59313c2df32,U Birkenstraße,Metro Station,52.532283770500335,13.341584426405808,Birkenstr. (Wilhelmshavener Str.),3919
+41,4bd9e0f33904a5932e07449e,U Halemweg,Metro Station,52.53679482116836,13.286578027892837,Halemweg,4014
+42,4b1a6b7bf964a52020ea23e3,U Breitenbachplatz,Metro Station,52.46705068058149,13.308800533486076,Breitenbachplatz,4038
+43,4c4711de1262ef3b6948ca41,U Olympia-Stadion,Metro Station,52.517266257038266,13.250126074543235,Rositter Platz (Rominter Allee),4258
+44,524b0ed9498e31d637d527c3,U Yorckstraße,Metro Station,52.49289831169841,13.36925888292526,Yorckstr. (Katzlerstr.),4267
+45,4b14d297f964a520cfa623e3,S+U Heidelberger Platz,Metro Station,52.47973533822178,13.312253952026367,Mecklenburgische Str. 23 (Aßmannshauser Str.),2637
+46,4bf6cb9ab182c9b6cc81745a,U Siemensdamm,Metro Station,52.53676847217614,13.27289149833617,Siemensdamm (Jungfernheideweg),4441
+47,4ca85a4cae1eef3b2a473247,U Podbielskiallee,Metro Station,52.464128634829564,13.296021223068237,Podbielskiallee (Im Dol),4447
+48,4af292bbf964a520f9e721e3,U Gleisdreieck,Metro Station,52.499628045085096,13.374195182256644,Luckenwalder Str.,4459
+49,4bbfc839b492d13ae751a360,U Mendelssohn-Bartholdy-Park,Metro Station,52.503460838676894,13.374693911975196,Köthener Straße (Hafenplatz),4474
+50,4b0abe3ef964a5202f2723e3,U Bundestag,Metro Station,52.52007274110608,13.372657299041746,Konrad-Adenauer-Str. (Willy-Brandt-Str.),4718
+51,4babda74f964a5203bcf3ae3,U Potsdamer Platz,Metro Station,52.508934016800275,13.377957344055174,Potsdamer Platz (Leipziger Platz),4736
+52,4bfa64168d30d13ade780318,U Rohrdamm,Metro Station,52.53695534927465,13.263806320288202,Nonnendammallee (Rohrdamm),4821
+53,4bbecc68b083a5935f92a2e9,U Hauptbahnhof,Metro Station,52.5254517467966,13.369975090026855,Europaplatz,4828
+54,4af439b1f964a520b5f021e3,S+U Bundesplatz,Metro Station,52.477807278577636,13.329024437212707,Bundesallee (Wexstr.),3158
+55,4b5ae406f964a52002d928e3,U Schloßstraße,Metro Station,52.460454895894934,13.32435607910156,Schloßstr. (Schildhornstr.),4890
+56,4b111954f964a5200c7823e3,U Möckernbrücke,Metro Station,52.49898724037058,13.382950634756428,Hallesches Ufer (Möckernbrücke),5057
+57,4af2ca37f964a52083e821e3,U Amrumer Straße,Metro Station,52.54198370957639,13.349366623413603,Amrumer Str. (Föhrer Str.),5110
+58,4b556267f964a520fee227e3,U Ruhleben,Metro Station,52.52554488987938,13.241539333928813,Charlottenburger Chaussee (Hempelsteig),5176
+59,4af9a376f964a520c81222e3,U Mohrenstraße,Metro Station,52.51171569780645,13.385016918182373,Mohrenstr.,5256
+60,4b9f5131f964a520571c37e3,U Dahlem-Dorf,Metro Station,52.457251320957354,13.289682258662365,Brümmerstr. (Fabeckstr.),5288
+61,4b0fd38df964a5203e6523e3,S+U Innsbrucker Platz,Metro Station,52.478007182840436,13.342340803829249,Innsbrucker Platz 67 (Wexstr.),3627
+62,4af58b28f964a520c3f921e3,U Mehringdamm,Metro Station,52.49402224530143,13.388417104634081,Mehringdamm (Gneisenaustr.),5503
+63,4aee9cb9f964a52013d421e3,U Kochstraße,Metro Station,52.50630840079257,13.390583709140328,Friedrichstr. (Kochstr.),5560
+64,4af2f8bff964a52077e921e3,U Stadtmitte,Metro Station,52.511310863161526,13.389801979064941,Friedrichstr. (Mohrenstr.),5568
+65,4b0839edf964a520be0623e3,U Platz der Luftbrücke,Metro Station,52.48567257074576,13.385847941207539,Mehringdamm (Platz der Luftbrücke),5588
+66,4af315a9f964a5207cea21e3,U Hallesches Tor,Metro Station,52.497758988034825,13.390683592034504,Hallesches Ufer (Tempelhofer Ufer),5592
+67,4b596614f964a520208728e3,U Kurt-Schumacher-Platz,Metro Station,52.563306337550934,13.32699837431819,Kurt-Schumacher-Damm (Scharnweberstr.),6790
+68,4b0b01cbf964a520782b23e3,U Französische Straße,Metro Station,52.514603445484724,13.389261359355753,Französische Str (Friedrichstr.),5602
+69,4bb4da67f1b976b0cb6d1f20,U Paulsternstraße,Metro Station,52.53795626325414,13.248367242454007,Nonnendammallee (Paulsternstr.),5615
+70,51d569e4498eece3ebd105d7,U Friedrichstraße,Metro Station,52.52007149641384,13.388014092272728,Friedrichstr. (Georgenstr.),5689
+71,4b0ebf5ef964a5207b5a23e3,U Reinickendorfer Straße,Metro Station,52.539913971157034,13.370492332764082,Müllerstr. (Reinickendorfer Str.),5841
+72,4aee9c6cf964a52012d421e3,U Schwartzkopffstraße,Metro Station,52.53602582488274,13.376294584693737,Chausseestr. (Schwartzkopffstr.),5850
+73,4b0abbecf964a520102723e3,S+U Brandenburger Tor,Light Rail Station,52.516514722235115,13.380191958856596,Unter den Linden (Wilhelmstr.),5063
+74,4bc73bff2f94d13a077c117f,U Naturkundemuseum,Metro Station,52.53117133901429,13.382340253353728,Chausseestr. (Invalidenstr.),5874
+75,4af28ec8f964a520e8e721e3,U Oranienburger Tor,Metro Station,52.525582296999815,13.387312889099121,Friedrichstr. (Claire-Waldoff-Str.),5875
+76,4aee81a7f964a520f5d321e3,U Leopoldplatz,Metro Station,52.546431638687736,13.359168355234766,Müllerstr. (Schulstr.),5892
+77,4b05b5c0f964a52059e122e3,U Paradestraße,Metro Station,52.477961281112556,13.385738240980322,Tempelhofer Damm (Paradestraße),5938
+78,4adcda7df964a520af4721e3,U Hausvogteiplatz,Metro Station,52.51330888180361,13.395423889160156,Hausvogteiplatz (Taubenstr.),5982
+79,4dc95c8dd22dc853b4e3befd,U Seestraße,Metro Station,52.550043437911135,13.352654883237797,Müllerstr. (Seestr.),5992
+80,4b0d6a2ef964a520cc4723e3,S+U Westhafen,Metro Station,52.536050461566774,13.343783649654007,An der Putlitzbrücke,4350
+81,4c9c4baf03133704fc3354d5,U Gneisenaustraße,Metro Station,52.49139482437726,13.395392795585105,Gneisenaustr. (Mittenwalder Str.),6025
+82,4af5b9bdf964a520f2fb21e3,U Freie Universität,Metro Station,52.450805216487566,13.281261637956522,Brümmerstr. (Löhleinstr.),6135
+83,4b9f54eaf964a520031d37e3,U Oskar-Helene-Heim,Metro Station,52.450321240752466,13.269335592798788,Clayallee (Argentinische Allee),6475
+84,4b2fbd80f964a520ddee24e3,U Spittelmarkt,Metro Station,52.51143379102766,13.403343178308159,Wallstr. (Spittelmarkt),6478
+85,4bd9e0a93904a593ae05449e,U Haselhorst,Metro Station,52.53900197293498,13.232326184455598,Am Juliusturm (Ferdinand-Friedensburg-Platz),6519
+86,4fd895aee4b0173fc1dcd4fb,U-Bahn Berlin,Metro Station,52.507329691465216,13.404807499335263,20160108,6529
+87,4c2910db360cef3b8b34bedc,U Afrikanische Straße,Metro Station,52.5601718013192,13.33471376931703,Müllerstr. (Afrikanische Str.),6568
+88,4b49d3adf964a520367426e3,U Prinzenstraße,Metro Station,52.49838971334789,13.406156625905817,Gitschiner Str. (Prinzenstr.),6629
+89,4c434166ff711b8d78ac1405,U Nauener Platz,Metro Station,52.55155152975554,13.36734287003284,Schulstr. (Nauener Platz),6678
+90,4b05b682f964a5206fe122e3,U Alt-Tempelhof,Metro Station,52.46571645937846,13.38559009377073,Tempelhofer Damm (Alt-Tempelhof),6687
+91,4a1c8506f964a520457b1fe3,Berlin Hauptbahnhof,Train Station,52.525219740053664,13.369368947618717,Europaplatz 1 (Washingtonplatz),4779
+92,4aee9e5bf964a52014d421e3,U Südstern,Metro Station,52.489313596286266,13.40776205062866,Hasenheide (Körtestr.),6894
+93,4b200056f964a520f52b24e3,S+U Rathaus Steglitz,Metro Station,52.45688545379072,13.320708274841309,Berlinickestr. 16,5234
+94,4aecc2d1f964a520feca21e3,U Moritzplatz,Metro Station,52.50366279776599,13.410631647381079,Moritzplatz (Oranienstr.),6909
+95,4b4cd624f964a520f4c026e3,U Märkisches Museum,Metro Station,52.512264177505315,13.409768342971802,Wallstr. (Inselstr.),6921
+96,4aeedcf1f964a52072d421e3,U Rosenthaler Platz,Metro Station,52.52988439484034,13.401062750880728,Rosenthaler Platz (Torstr.),6921
+97,4aeedd6ef964a52075d421e3,U Weinmeisterstraße,Metro Station,52.52552354945639,13.404875993728638,Weinmeisterstr. (Rosenthaler Str.),6970
+98,4b116c68f964a520467c23e3,U Kaiserin-Augusta-Straße,Metro Station,52.459870191638714,13.383566206848107,Tempelhofer Damm (Kaiserin-Augusta-Str.),7013
+99,4b4de818f964a520bdda26e3,U Onkel Toms Hütte,Metro Station,52.44999536055242,13.253405086717178,Onkel-Tom-Str. (Argentinische Allee),7020
