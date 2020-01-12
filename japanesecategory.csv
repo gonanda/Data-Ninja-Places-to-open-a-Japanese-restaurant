@@ -1,0 +1,101 @@
+,id,name,categories,lat,lng,neighborhood,distance [m]
+0,55f9a48e498ee737a1893058,Heno Heno,Japanese Restaurant,52.503964035304826,13.315577685864188,Wielandstr. 37,473
+1,4bbe353b9474c9b63e41d9b6,Kushinoya,Japanese Restaurant,52.50537184202184,13.31998218055456,Bleibtreustr. 6,799
+2,570b97c4498e2c6e7c5eb991,Smart Deli,Japanese Restaurant,52.528094,13.38906,Novalisstr. 2,6103
+3,57c9e26a498ed1dcbbd0b461,Sticks'n'Sushi,Japanese Restaurant,52.50202014658692,13.3650638947736,Potsdamer Str. 85,3824
+4,4c0fde34ce57c928f7f580d2,Green Tea Café MAMECHA,Japanese Restaurant,52.52728395772743,13.406304556201015,Mulackstr. 33 (Rückerstr.),7131
+5,54dcd6ee498e87a1ea64f800,Zenkichi,Japanese Restaurant,52.52447181881935,13.389098274646114,Johannisstr. 20 (Friedrichstr.),5935
+6,4adcda88f964a5205c4921e3,KUCHI Kant,Japanese Restaurant,52.50621419836479,13.318248689174652,Kantstr. 30 (Schlüterstr.),724
+7,4edf4e24f79009df31e4e398,Ishin Tey,Japanese Restaurant,52.50730859654831,13.329329833744902,Hardenbergstr. 19,1468
+8,579a410b498e5f7c187c5d91,Shiori,Japanese Restaurant,52.5255006388942,13.40827536421529,Max-Beer-Straße 13,7185
+9,546498ef498e2e01c5fb11ba,House of Small Wonder,Japanese Restaurant,52.52449871855808,13.389206528663635,Johannisstr. 20a,5943
+10,4de6754ffa764cf4bedfeb2f,Sayuri,Japanese Restaurant,52.49771903635713,13.295225996146746,Kurfürstendamm 137 (Joachim-Friedrich-Str.),1104
+11,4bc6f8d5af07a593f6487e2d,Ikesu Japanisches Restaurant,Japanese Restaurant,52.498633,13.324695,Uhlandstr. 157,1205
+12,55a90eff498e8f5cf91f1fd9,Ushido,Japanese Restaurant,52.54230345760376,13.416069667398542,Lychener Str. 18,8470
+13,4e12a524e4cdef074b7e4c24,Cocoro,Japanese Restaurant,52.4908357330855,13.386443853378296,Mehringdamm 64 (Hagelberger Str.),5451
+14,4ba21485f964a5205fda37e3,Ishin,Japanese Restaurant,52.51798579625111,13.386713577457856,Mittelstr. 24,5533
+15,4afdbfd8f964a520872a22e3,Sasaya,Japanese Restaurant,52.544309738166525,13.418225103137415,Lychener Str. 50,8710
+16,4aef5cbaf964a520d9d721e3,Omoni,Japanese Restaurant,52.54916084567979,13.408934562386694,Kopenhagener Str. 14,8493
+17,4ba27123f964a5205ff937e3,Daitokai,Japanese Restaurant,52.50454434383743,13.338094539559242,Tauentzienstr. 9-12,1998
+18,4b60af26f964a520eaf329e3,Sachiko Sushi,Japanese Restaurant,52.50480958616441,13.323968670583067,Jeanne-Mammen-Bogen 584,1049
+19,4bd89e6d11dcc9287f11f733,Tabibito,Japanese Restaurant,52.482965,13.431507,Karl-Marx-Str. 56,8629
+20,4bb21ed1f964a520a0ba3ce3,Tokyo-Haus,Japanese Restaurant,52.498643,13.307794,Brandenburgische Straße 30,525
+21,59121f7bc21cb12eb99b158e,Life Berlin,Japanese Restaurant,52.491878642334974,13.433209737075074,Maybachufer 39 (Nansenstr.),8536
+22,4b867e1bf964a5206f8c31e3,Ishin,Japanese Restaurant,52.49426521957291,13.331079943983942,Bundesallee 203,1823
+23,4c4f4c6892b6a5939f305771,Udagawa,Japanese Restaurant,52.46331,13.329913,Feuerbachstr. 24,4682
+24,52867b50498e334c39fce656,Dr. To,Japanese Restaurant,52.48602794989432,13.43518733465423,Weichselstr. 54,8788
+25,4d9a03ab61a3a1cd227cf142,Yoshioka,Japanese Restaurant,52.487989721940565,13.317926134259867,Brandenburgische Str. 77,1819
+26,4ade2daaf964a520a57321e3,KUCHI Mitte,Japanese Restaurant,52.5271684509717,13.399232625961304,Gipsstr. 3 (Auguststr.),6684
+27,4adf602ff964a520047a21e3,DUDU,Vietnamese Restaurant,52.52935176675936,13.399865627288817,Torstr. 134,6823
+28,4b3ba703f964a5200a7825e3,Musashi,Sushi Restaurant,52.495140560785636,13.4207921577248,Kottbusser Damm 102,7653
+29,57f809d4498e2bb7c7157736,RYONG,Japanese Restaurant,52.528935802248654,13.408944576124542,Torstr. 59,7366
+30,5d440eb68e0eb70009db731c,Kadoya,Japanese Restaurant,52.522844,13.400317,Deutschland,6578
+31,594bfcd9f2905e24f6f13bbe,Izakaya WATAPAS,Japanese Restaurant,52.532057,13.434351,Bötzowstraße 33 (Liselotte-Herrmann-Straße),9094
+32,4adcda87f964a5202b4921e3,Sushi Bar Ky,Japanese Restaurant,52.53975144342176,13.406564638310803,Oderberger Straße 40,7772
+33,4af727b3f964a5207f0622e3,Mr. Hai Shabuki,Japanese Restaurant,52.49887457937958,13.31639078668747,Olivaer Platz 9,721
+34,5ae3575b031320002c99ee76,IRO Izakaya,Japanese Restaurant,52.510359,13.458793,Krossener Str. 19 (Gabriel-Max-Str.),10202
+35,4bffd96adaf9c9b61ccafaef,Udagawa,Japanese Restaurant,52.506237,13.309896,Kantstr. 118,334
+36,5cb4817151950e002c28dd35,Little Long,Japanese Restaurant,52.498138,13.430794,Wiener Str. 60,8296
+37,576c1166498e41306e3397c0,Harapeco Japanese Kitchen - Okonomiyaki,Japanese Restaurant,52.50514759100179,13.469369650988098,Neue Bahnhofstr. 3,10891
+38,4adcda88f964a520654921e3,Aiko,Japanese Restaurant,52.53055951837594,13.40047007871769,Brunnenstr. 193,6918
+39,4af085d7f964a520e6dc21e3,Cocolo Ramen,Ramen Restaurant,52.52715986760178,13.399341255426407,Gipsstr. 3 (Auguststr.),6690
+40,5cfd3336364d97002ce27ded,Roji - Godai No Sekai,Japanese Restaurant,52.538976,13.409018,Oderberger Straße 11,7870
+41,4c459ad62d3ec9b6c96d30ae,Mateo-Looi Sushi Restaurant,Japanese Restaurant,52.5115295631979,13.268427952315353,Reichsstraße 102 (Kastanienallee),2874
+42,5a5120c34b78c52e9fdd2f45,Roji,Japanese Restaurant,52.569143,13.40343,Mühlenstr. 1 (Breite Str.),9738
+43,5c952132fc9e94002bfb9f02,Chotto,Japanese Restaurant,52.537678,13.419915,Kollwitzstr. 84 (Sredzkistr.),8449
+44,577df32c498e861ea267132c,893 Ryōtei,Asian Restaurant,52.505975,13.31696,Kantstr. 135,634
+45,4bc357294cdfc9b64b319721,Ishin,Japanese Restaurant,52.459571,13.323615,Schloßstr. 101 (Deitmerstr.),4975
+46,525edbed11d2fad7a75b8f0f,Minakami,Japanese Restaurant,52.50658251670329,13.309887437377121,Kantstaße 50,371
+47,4b55a471f964a5202bea27e3,Tori-Katsu,Japanese Restaurant,52.49614362899209,13.359823555782128,Winterfeldtstr. 7,3557
+48,4d358f7f2c76a1438bd18fc7,Katsudo,Sushi Restaurant,52.50889274151768,13.307060729923531,Goethestr. 37-38,628
+49,4afeae88f964a520ea2f22e3,Crêpestation,Japanese Restaurant,52.546305484696795,13.417988469785616,Pappelallee 58,8815
+50,58a0386d9b615c0bda08da79,Tsukushiya - Japanese Deli,Japanese Restaurant,52.50117562711077,13.416808742410739,Dresdener Str. 16,7332
+51,54cf67d2498e263faaccf60d,Ishin,Japanese Restaurant,52.521749194291836,13.403632140400594,Litfaßplatz 1,6752
+52,4bbaea30cf2fc9b6790aa202,Best Friends,Japanese Restaurant,52.54702109687461,13.405838231558581,Gleimstr. 10,8183
+53,4adcda88f964a520724921e3,Mrhai Life,Sushi Restaurant,52.45707484104433,13.321644593243967,Albrechtstr. 131,5223
+54,5571f00e498e055a7d77700d,DoHo Sushi,Sushi Restaurant,52.50024176164128,13.303660154342651,Dahlmannstr. 14,483
+55,4c84d8ab51ada1cd472a3210,Genki Sushi,Sushi Restaurant,52.514541264691175,13.304827067886682,Wilmersdorfer Str. 22 (Thrasoltstr.),1274
+56,4b3e4dc6f964a520ef9a25e3,Akiko Sushi,Sushi Restaurant,52.4606312606575,13.323383107999069,Ahornstr. 32,4856
+57,4b940ea5f964a520d06434e3,Gingi's Izakaya,Sushi Restaurant,52.53650849121389,13.420566818022658,Rykestr. 45,8431
+58,4d277585467d6ea8d911bd95,Little Tokyo,Sushi Restaurant,52.51930950092406,13.299626857274738,Kaiser-Friedrich-Str 1,1881
+59,58a0303576b8b24413aa2193,Momiji,Japanese Restaurant,52.506621,13.320423,Bleibtreustraße 52,876
+60,4adcda79f964a520894621e3,VOX Restaurant,Sushi Restaurant,52.508108283143834,13.3725115608619,Marlene-Dietrich-Platz 2,4358
+61,4bd5974e7b1876b074f28a86,Sy Restaurant,Vietnamese Restaurant,52.506852,13.308332,Kantstr. 54,392
+62,5207c37411d27cd9e7c52703,Co'm Á,Sushi Restaurant,52.500385371034106,13.422653677712747,Oranienstr. 191 (Heinrichplatz),7731
+63,4d4c3395a33fb1f7c7e8bb80,Sakura,Japanese Restaurant,52.50251743082108,13.351221767484894,Kurfürstenstr. 126,2885
+64,5c30f6c415173e0038c9095c,Enzo Sushi Bar,Sushi Restaurant,52.534618,13.425019,Marienburger Str. 38,8616
+65,4b18fd46f964a520f8d623e3,Ishin,Japanese Restaurant,52.50785008211851,13.39251121975676,Charlottenstr. 16 (Eingang Zimmerstr.),5703
+66,530cd841498ec10a2218a1ad,Any Sushi,Sushi Restaurant,52.46024679368716,13.325181971951032,Hubertusstraße 3,4925
+67,4d8790a850913704dd02c35b,Cowei,Japanese Restaurant,52.5222693,13.3996439,Stadtbahnbogen 152 (James-Simon-Park),6514
+68,4dd7c09b8877f1150ff0abe0,Asia Land,Chinese Restaurant,52.501626560038034,13.334955340787701,Berlin,1791
+69,56b778b6498e7c199b6b1e7d,Mama Cook,Vietnamese Restaurant,52.50297528052083,13.388150737751431,Hedemannstraße 10,5386
+70,5570475e498e055a78a82531,King King,Sushi Restaurant,52.52510912065574,13.410327894011647,Rosa-Luxemburg-Str. 17,7301
+71,5d52bd6d4d6dee00076eedbb,JABE Dine & Bar,Japanese Restaurant,52.5275,13.408273,Alte Schönhauser Str. 7-8,7264
+72,588cc52851666a083e4cb174,Café Komine,Café,52.497845,13.341739,Welserstr. 13-15 (Geisbeegerstr.),2322
+73,5884aa834bafb766c2a8575e,Phantasia,Sushi Restaurant,52.49227968985153,13.387243808508767,Mehringdamm 44 - 46,5465
+74,4f8ea7c6e4b00231899b6b7d,Ha-an Sushi,Sushi Restaurant,52.53824864908185,13.40936535077294,Kastanienallee 18,7850
+75,4b116498f964a520947b23e3,TTP Sushi,Sushi Restaurant,52.498992527605026,13.315205665043964,Olivaer Platz 5-6,655
+76,4b40e0aaf964a520a2bc25e3,Cube Sushi,Sushi Restaurant,52.49082687371909,13.39424240698957,Zossener Str. 18,5964
+77,57e2bd55498ed8158ea52696,CUBO,Japanese Restaurant,52.485311285410276,13.352048483100285,Eisenacher Str. 59,3559
+78,4b3a5a6ff964a520616525e3,Mikoto Sushi,Japanese Restaurant,52.544414,13.416213,Pappelallee 22,8600
+79,4b097215f964a520621723e3,Tabeyo Sushi,Sushi Restaurant,52.540635820648575,13.414706792647316,Danziger Str. 12,8296
+80,4fddeb7be4b0d331696751c5,RICE IN,Sushi Restaurant,52.51094781266729,13.462076223240038,Grünberger Str. 88,10428
+81,4af7f638f964a520980a22e3,Makoto,Japanese Restaurant,52.526751,13.407666,Alte Schönhauser Str. 13 (Mulackstr.),7195
+82,59afdac08134880efbedf20e,Eden Restaurant,Vietnamese Restaurant,52.52204609875019,13.404751386925534,Rosenstr. 19 (Rochstr.),6834
+83,4b43ceddf964a52099ea25e3,rice & more,Asian Restaurant,52.43461524296458,13.378290114414813,Großbeerenstr. 51,8989
+84,4ba3bdbff964a520485a38e3,Akito Sushi Bar,Japanese Restaurant,52.52383257182028,13.387048723931896,Reinhardtstr. 6,5779
+85,5c1b7f03f96b2c002c8ca1fc,Secret Garden Berlin,Vegetarian / Vegan Restaurant,52.507605,13.449941,Wahrschauerstr. 32 (Helsingforser Str.),9584
+86,4c29ab0d360cef3bc34fbedc,Sy,Sushi Restaurant,52.537891,13.206676,Breite Straße 33,7907
+87,4b867817f964a520638b31e3,Aki Tatsu Sushi & More,Japanese Restaurant,52.4970550882628,13.354674113758689,Winterfeldtstr. 40,3195
+88,540d8a24498e0ff16065fec9,Seoulkitchen Korean BBQ & Sushi,Korean Restaurant,52.503595075450235,13.447351987376058,Warschauer Str. 46 (Mühlenstr.),9397
+89,537dd7b4498e956dc8576472,Akito Sushi Bar,Sushi Restaurant,52.530115157264106,13.383576965709088,Chausseestr. 116,5885
+90,4b5b6a15f964a5202afc28e3,Minh-Trang,Vietnamese Restaurant,52.50687500167866,13.302334633049039,Kantstr. 67 (Kaiser-Friedrich-Str.),582
+91,4b73002af964a520d4942de3,Don Sushi,Sushi Restaurant,52.51156046524574,13.416665032374384,Brückenstr. 15,7374
+92,59943f2fb9ac381ee9fc770c,Arata Sushi,Japanese Restaurant,52.52748,13.388395,Torstraße 223,6033
+93,598bfa283149b904bbf48448,Kame,Japanese Restaurant,52.52746599305749,13.392729936866028,Linienstr. 113,6296
+94,4b7adc45f964a520ad412fe3,Sushi Miyabi,Sushi Restaurant,52.48713535160029,13.322618868340347,Uhlandstr. 104-105,2035
+95,584098c3a19e9066cd102c90,Aki tatsu,Sushi Restaurant,52.528642,13.394592,Torstr. 176,6466
+96,5c10f64367a9fe002c2e4ed5,Udon & Gyoza,Japanese Restaurant,52.527399911842494,13.40809369080739,Alte Schönhauser Str. 7-8,7248
+97,586135c3eef5da0d3a6eec83,Nihombashi,Japanese Restaurant,52.53055417155127,13.401939317131465,Weinbergsweg 4,7007
+98,4adcda79f964a520b64621e3,Bar Tausend,Cocktail Bar,52.520863,13.384993,Schiffbauerdamm 11,5527
+99,4ade02dcf964a520576721e3,Aki Tatsu - Sushi & More,Japanese Restaurant,52.48937231178924,13.39229081258636,Bergmannstraße 93,5876
