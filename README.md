@@ -1,7 +1,7 @@
 # Data Ninja - Secret places to open a restaurant 
 ### Applied Data Science Capstone by IBM/Coursera
 
-This repository is a hands-on project with the goal to search optimal locations for to open a restaurant in the City of Berlin. Here you will find tools and techniques of data science, such as data cleaning, data analysis, K-means clustering and how to use the foursquare developer website to extract important information for this search. This final project is the capstone project that I completed during the IBM/Coursera data science course.
+This repository is a hands-on project with the goal to search optimal locations for to open a restaurant in Berlin. Here you will find tools and techniques of data science, such as data cleaning, data analysis, K-means clustering and how to use the foursquare developer website to extract important information for this search. This final project is the capstone project that I completed during the IBM/Coursera data science course.
 
 ### Prerequisites
 
