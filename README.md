@@ -7,14 +7,14 @@ This repository is a hands-on project with the goal to search optimal locations 
 
 * Jupyter Notebook
 * Python 3
-* Python libraries: Pandas, Numby, Matplotlib, Seaborn, Folium, Sklearn 
+* Python libraries: Pandas, Numpy, Matplotlib, Seaborn, Folium, Sklearn 
 * Geocoder
 * Account in Foursquare developer
 
 ### Installing
 
 * Instructions to install Jupyter Notebook: https://jupyter.org/install
-* The libraries you can stall using `!pip install`
+* From inside Jupyter Notebooks, one can install libraries through `!pip install <package-name>`
 * Geocoder website: https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.html
 * Website of Foursquare developer: https://developer.foursquare.com/
 
