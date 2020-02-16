@@ -14,7 +14,7 @@ This repository is a hands-on project with the goal to search optimal locations 
 ### Installing
 
 * Instructions to install Jupyter Notebook: https://jupyter.org/install
-* The libraries you can stall using `!pip install`
+* The libraries you can install using `!pip install`
 * Geocoder website: https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.html
 * Website of Foursquare developer: https://developer.foursquare.com/
 
